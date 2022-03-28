@@ -1,0 +1,4 @@
+# Project exclude paths
+/container/node_modules/
+/products/dist/
+/products/node_modules/
